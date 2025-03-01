@@ -6,6 +6,6 @@ STRING safari
 DELAY 500
 ENTER
 DELAY 1000
-STRING www.yourwebsite.com
+STRING https://www.pornhub.com
 DELAY 500
 ENTER
